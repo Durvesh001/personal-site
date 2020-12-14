@@ -11,7 +11,8 @@ body {
 }
 
 hr {
-  border: dotted black 6px;
+  border: dotted  6px;
+  color: #10a582;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
