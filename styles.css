@@ -2,7 +2,7 @@ body {
   text-align: center;
   font-family: 'Merriweather', serif;
   color: #40514E;
-  
+
 }
 
 .top-conatiner {
@@ -11,7 +11,7 @@ body {
   background-color: #dbf6e9;
 }
 
-hr {
+.hr {
   border: dotted  6px;
   color: #10a582;
   border-bottom: none;
