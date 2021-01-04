@@ -67,10 +67,18 @@ h3 {
   margin-right: 20px;
 }
 
+
+
 .website-image {
   width: 36.5%;
   float: right;
   margin-right: 20px;
+}
+
+.book-image{
+  float: left;
+  margin-right: 40px;
+  width: 36.5%;
 }
 
 .middle-container {
@@ -109,6 +117,11 @@ a:hover{
 
 .Thank-msg{
   margin-top: 40px;
+}
+
+.quote{
+  position: relative;
+  left: 550px;
 }
 
 .btn {
